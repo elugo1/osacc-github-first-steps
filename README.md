@@ -50,12 +50,16 @@ Issue templates are useful for making sure users add required information to bug
 
 ### Editing files in the browser
 
-## Submitting a pull request to resolve an issue
-
 ### Make a copy of the project to your own GitHub account by forking the project
 Click the "Fork" button on the top right of the project page to make a copy of the project to your own GitHub account.
 
 ![Fork button to click for the project](./images/fork.png)
+
+### Submitting a pull request to resolve an issue
+ - Once you have created a fork from a repository, start changing it!
+ - Commit your change
+   ![Commit your Change](./images/commit.png)
+
 
 ### Upload your changes by pushing to your remote repository
 
