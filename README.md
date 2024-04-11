@@ -39,6 +39,9 @@ When filing a feature request, it's important to include:
 - a description of the change or new feature you'd like to see
 - why you think it is beneficial to the project
 
+### Configuring Issue Template 
+Issue templates are useful for making sure users add required information to bug reports and feature requests. Information for creating an issue template is at this [GitHub Documentation Page](GitHub documentation for issue templates: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)
+
 ## Checking out and modifying your own copy of the code
 
 ### Downloading your own copy of the code
@@ -50,6 +53,9 @@ When filing a feature request, it's important to include:
 ## Submitting a pull request to resolve an issue
 
 ### Make a copy of the project to your own GitHub account by forking the project
+Click the "Fork" button on the top right of the project page to make a copy of the project to your own GitHub account.
+
+![Fork button to click for the project](./images/fork.png)
 
 ### Upload your changes by pushing to your remote repository
 
